@@ -1,4 +1,4 @@
 # johnnycapace.github.io
 ...
 
-<video src=".video.mp4" width="320" height="200" controls preload></video>
+<video src="video.mp4" width="320" height="200" controls preload></video>
